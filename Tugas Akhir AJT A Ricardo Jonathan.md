@@ -31,6 +31,7 @@ Saya sudah mengikuti step step dari bapak, akan tetapi saya selalu error, error 
 Saya juga sudah mencobanya terus menerus tapi selalu tidak ada modul bernama dijkstra ryu controller, jadi disini saya akan menggunakan contoh dari teman saya yang berhasil mengeksekusinya.
 
 Contoh dari hasil eksekusi atau tugas teman saya:
+
 Tampilan terminal 1:
 
 ![172608395-925a48df-5820-4b95-b07f-5e940288ec8e](https://user-images.githubusercontent.com/90437038/172729805-8eac5aa8-3d9f-4aa6-8332-9d4cd657d1fc.png)
