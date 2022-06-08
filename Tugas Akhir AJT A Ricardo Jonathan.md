@@ -12,10 +12,12 @@ Tugas 1 Membuat Instance
 ![ww 2](https://user-images.githubusercontent.com/90437038/172726688-7f026a0c-ad8c-48da-b3e9-fe00e3f97b2c.PNG)
 Dalam tugas pertama ini, saya diajari membuat instans EC2 di konsol AWS. Jenis instans yang ditentukan: t2.medium, AMI: Server Ubuntu  22.04 LTS 64-bit, SSH diizinkan, HTTP diizinkan, HTTPS diizinkan, grup keamanan terbuka untuk port TCP  8081 dan 8080, 30 GiB, gp3. Mininet, Ryu, dan Flow Manager akan menemani Anda.
 
+
 Tugas 2 Mininet Custom Topology
 ![ww 1](https://user-images.githubusercontent.com/90437038/172727187-f4dcffdc-3491-4255-bb2a-51389f7228a3.PNG)
 ![ww 2](https://user-images.githubusercontent.com/90437038/172727196-d931917c-b41f-41f9-8c1d-5b22af1bd4ec.PNG)
 Dalam tugas kedua ini, saya membuat topologi khusus, membuat aliran data antara Host 1 dan Host 2, dan menguji koneksi.
+
 
 Tugas 3 Ryu Load Balancer
 ![ww 1](https://user-images.githubusercontent.com/90437038/172727765-0bd3ecd9-83a0-4d64-a42c-68858a9f12a7.PNG)
@@ -23,6 +25,7 @@ Tugas 3 Ryu Load Balancer
 ![ww3](https://user-images.githubusercontent.com/90437038/172727793-8c3da472-169b-4193-8f32-a3e5e69c7d1f.PNG)
 ![ww5](https://user-images.githubusercontent.com/90437038/172727804-ebcafa8a-2965-47ba-959b-cf61aa0399da.PNG)
 Di tugas 3 ini, saya belajar membimbing load balancer, Load balancing adalah trik pembagian pikulan traffic simetri rekayasa atau server. Dengan load balancer, pikulan traffic tidak akan dibebankan menjelang sejumlah jalur koneksi. Hal ini menyelak masa tanggapan server Anda dan mencegahnya dari overloading. Dengan begini, daya server Anda akan lebih maksimal tidak peduli berapa berlebihan traffic yang Anda dapatkan.
+
 
 Tugas 4 Shortest Path Routing
 ![ww 1](https://user-images.githubusercontent.com/90437038/172729245-ddb7d117-8cd0-4d86-a0e9-3e00c06d060c.PNG)
