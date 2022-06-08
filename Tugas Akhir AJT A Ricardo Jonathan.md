@@ -43,6 +43,7 @@ Tampilan terminal 2:
 
 Pengujian koneksi (h1 ping -c 4 h4)
 
+
 Tampilan terminal 1:
 
 ![172609479-e63265b4-bdcd-4043-aa9a-069ae8428aec](https://user-images.githubusercontent.com/90437038/172729934-9d3bb1e1-ca42-42b2-8a31-f39f9206fe0a.png)
@@ -52,6 +53,7 @@ Tampilan terminal 2:
 ![172609539-07505227-8e96-4c06-adbb-d93d66e76fb6](https://user-images.githubusercontent.com/90437038/172729978-3a05ee4d-c1cd-4cd7-ac32-c7dc82303ad2.png)
 
 Pengujian koneksi (h5 ping -c 4 h6)
+
 
 Tampilan terminal 1:
 
