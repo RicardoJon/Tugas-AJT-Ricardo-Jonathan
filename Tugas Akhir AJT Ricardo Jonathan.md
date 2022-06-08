@@ -32,25 +32,34 @@ Saya juga sudah mencobanya terus menerus tapi selalu tidak ada modul bernama dij
 
 Contoh dari hasil eksekusi atau tugas teman saya:
 Tampilan terminal 1:
+
 ![172608395-925a48df-5820-4b95-b07f-5e940288ec8e](https://user-images.githubusercontent.com/90437038/172729805-8eac5aa8-3d9f-4aa6-8332-9d4cd657d1fc.png)
 ![172608422-47cbae14-75e5-4bc2-8a1a-725e43294a88](https://user-images.githubusercontent.com/90437038/172729820-bf6cca72-8a25-4d87-8e66-58e19ac49d8b.png)
 ![172608967-428747b8-1ccc-4ec2-a8e1-06c731b298de](https://user-images.githubusercontent.com/90437038/172729829-8b6ec585-0da3-481c-bd82-922d1ecbf1a9.png)
 
 Tampilan terminal 2:
+
 ![172609245-f97db450-5395-4f3f-b8e6-6aa174411a76](https://user-images.githubusercontent.com/90437038/172729880-07c2419c-1cf2-4438-b816-cf3060290bfe.png)
+
 Pengujian koneksi (h1 ping -c 4 h4)
 
 Tampilan terminal 1:
+
 ![172609479-e63265b4-bdcd-4043-aa9a-069ae8428aec](https://user-images.githubusercontent.com/90437038/172729934-9d3bb1e1-ca42-42b2-8a31-f39f9206fe0a.png)
 
 Tampilan terminal 2:
+
 ![172609539-07505227-8e96-4c06-adbb-d93d66e76fb6](https://user-images.githubusercontent.com/90437038/172729978-3a05ee4d-c1cd-4cd7-ac32-c7dc82303ad2.png)
+
 Pengujian koneksi (h5 ping -c 4 h6)
 
 Tampilan terminal 1:
+
 ![172610150-80e0f109-a52b-40eb-8105-11a1fba16b1f](https://user-images.githubusercontent.com/90437038/172730025-a5d01c60-92b0-4efb-86b1-ef2195dca09b.png)
 
 Tampilan terminal 2:
+
 ![172610197-4dd549c3-a42e-4afa-ae4d-65f9c057d272](https://user-images.githubusercontent.com/90437038/172730047-d036873d-de3f-406b-8fbd-0bd5c94e9a57.png)
+
 Pada tugas 4 ini, kita diajarkan bab cara pengaplikasian SPF Routing, yang menemukan algoritma routing di mana router menilai serat terpendek ganggang setiap pasangan node yang siap di bagian dalam jaringan. Protokol Open Shortest Path First (OSPF) dibuat berlandasan algoritma Shortest Path First (SPF).
 Sekali lagi ini saya tidak menyontek atau apapun, saya hanya memberi contoh hasil pengeksekusian tiap terminal dan routing jika berhasil, karena punya saya tidak dapat berjalan karena masalah “no module named dijkstra_Ryu_controller”. Mohon maaf bila banyak kekurangan.
